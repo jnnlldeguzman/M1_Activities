@@ -1,12 +1,12 @@
 package Individual;
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
-public class Activity6 {
+public class Seatwork1 {
 
 	public static void main(String[] args) {
 
-		Book mybook = new Book();
+		S1Book mybook = new S1Book();
 		
 		mybook.title = "Wonderland";
 //		mybook.author = "Jannella De Guzman";
@@ -14,7 +14,7 @@ public class Activity6 {
         mybook.display();
         
         
-        House myHouse = new House();
+        S1House myHouse = new S1House();
         
         myHouse.location = "Caloocan";
 //        myHouse.color = "red";
@@ -25,7 +25,7 @@ public class Activity6 {
 //        myHouse.displaysize();
         
 
-        Tree myTree = new Tree();  
+        S1Tree myTree = new S1Tree();  
         
         myTree.types = "Narra";
              		

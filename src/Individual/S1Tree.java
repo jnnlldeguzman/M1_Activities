@@ -1,6 +1,6 @@
 package Individual;
 
-public class Tree {
+public class S1Tree {
 
 	
 String types;

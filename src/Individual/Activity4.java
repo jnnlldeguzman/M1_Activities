@@ -24,6 +24,7 @@ public class Activity4 {
 				System.out.println("Senior");
 			}
 
+			input.close();
 	}
 
 }

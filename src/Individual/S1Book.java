@@ -1,6 +1,6 @@
 package Individual;
 
-public class Book {
+public class S1Book {
 
 
 	String title, author;

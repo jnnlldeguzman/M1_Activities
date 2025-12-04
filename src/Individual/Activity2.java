@@ -21,7 +21,7 @@ public class Activity2 {
 		System.out.println("Your age as int: " + ageInt);
 		System.out.println("Your age as doub " + ageDouble);
 		
-
+		input.close();
 	}
 
 }

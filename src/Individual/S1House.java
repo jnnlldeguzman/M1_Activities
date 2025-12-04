@@ -1,6 +1,6 @@
 package Individual;
 
-public class House {
+public class S1House {
 
 	
 	String location, color;

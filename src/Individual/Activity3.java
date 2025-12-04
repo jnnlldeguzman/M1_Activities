@@ -22,13 +22,15 @@ public class Activity3 {
         int sum = num1 + num2;
         int difference = num1 - num2;
         int prod = num1 * num2;
-        int quo = num1 / num2;
-        int remainder = num1 % num2;
- 
+//        int quo = num1 / num2;
+//        int remainder = num1 % num2;
+// 
         // output
         System.out.println("Sum:  " + sum);
         System.out.println("Difference:  " + difference);
         System.out.println("Product:  " + prod);
+        
+        input.close();
 	}
 
 }
